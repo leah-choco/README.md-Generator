@@ -21,22 +21,22 @@
 
 
   ## Description
-  It's an app that allows you to generate your own unique README>.md.
+  It's an app 
 
   ## Installation
-  Node needs to be installed.
+  none
 
   ## Usage
-  This runs in Node and then appears after pushed to Github.
+  nothing
 
   ## Contributing
-  Anyone can contribute with a pull request
+  i dont know
 
   ## Tests
-  None
+  none
 
   ## License
-  Apache 2.0
+  GNU AGPLv3.0
 
   ## Questions
   leah-choco
