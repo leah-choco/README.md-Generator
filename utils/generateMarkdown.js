@@ -19,13 +19,20 @@ const generateMarkdown = (data) => {
 
   ## Table of Contents
 
-  [Description] (#Description)
-  [Installation] (#Installation)
+  [Description](#Description)
+
+  [Installation](#Installation)
+
   [Usage](#Usage)
-  [Contributing] (#Contributing)
-  [Tests] (#Tests)
-  [License] (#License)
-  [Questions] (#Questions)
+
+  [Contributing](#Contributing)
+
+  [Tests](#Tests)
+
+  [License](#License)
+
+  [Questions](#Questions)
+
 
   ## Description
   ${data.description}
@@ -40,13 +47,14 @@ const generateMarkdown = (data) => {
   ${data.contributing}
 
   ## Tests
-  ${data.test}
+  ${data.tests}
 
   ## License
   ${data.license}
 
   ## Questions
   ${data.questions}
+  
   ${data.email}
 
 `;
