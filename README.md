@@ -1,37 +1,45 @@
 
-  # **1**
+  # **Generator**
 
   undefined
 
   ## Table of Contents
 
-  [Description] (#Description)
-  [Installation] (#Installation)
+  [Description](#Description)
+
+  [Installation](#Installation)
+
   [Usage](#Usage)
-  [Contributing] (#Contributing)
-  [Tests] (#Tests)
-  [License] (#License)
-  [Questions] (#Questions)
+
+  [Contributing](#Contributing)
+
+  [Tests](#Tests)
+
+  [License](#License)
+
+  [Questions](#Questions)
+
 
   ## Description
-  2
+  It's an app that allows you to generate your own unique README>.md.
 
   ## Installation
-  3
+  Node needs to be installed.
 
   ## Usage
-  4
+  This runs in Node and then appears after pushed to Github.
 
   ## Contributing
-  5
+  Anyone can contribute with a pull request
 
   ## Tests
-  undefined
+  None
 
   ## License
   Apache 2.0
 
   ## Questions
-  3
-  4
+  leah-choco
+  
+  mrsleahchoco@gmail.com
 
