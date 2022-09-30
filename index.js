@@ -38,7 +38,7 @@ const questions = [
     type:'rawlist',
     name: 'licenseType',
     message: 'Choose a license',
-    choices: ['Apache 2.0', 'MIT', 'Mozilla Public 2.0'],
+    choices: ['Apache 2.0', 'MIT', 'ISC', 'none'],
   },
   {
     type: 'input',
