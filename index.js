@@ -36,9 +36,9 @@ const questions = [
   },
   { 
     type:'rawlist',
-    name: 'license',
+    name: 'licenseType',
     message: 'Choose a license',
-    choices: ['Apache 2.0', 'BSD 2-Clause', 'BSD 3-Clause', 'GNU AGPLv3.0', 'GNU GPLv2.0', 'GNU GPLv3.0', 'MIT', 'Mozilla Public 2.0'],
+    choices: ['Apache 2.0', 'MIT', 'Mozilla Public 2.0'],
   },
   {
     type: 'input',

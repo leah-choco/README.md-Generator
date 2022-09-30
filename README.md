@@ -1,6 +1,7 @@
 
-  # **Generator**
+  # **1**
 
+  
   undefined
 
   ## Table of Contents
@@ -21,25 +22,25 @@
 
 
   ## Description
-  It's an app 
+  2
 
   ## Installation
-  none
+  3
 
   ## Usage
-  nothing
+  4
 
   ## Contributing
-  i dont know
+  5
 
   ## Tests
-  none
+  6
 
   ## License
-  GNU AGPLv3.0
+  MIT
 
   ## Questions
-  leah-choco
+  8
   
-  mrsleahchoco@gmail.com
+  9
 
