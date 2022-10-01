@@ -1,14 +1,14 @@
 const renderLicenseLink = (license) => {
- if (license = 'Apache 2.0'){
+ if (license === 'Apache 2.0'){
   return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
  }
- if(license = "MIT"){
+ if(license === "MIT"){
   return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
  }
- if (license = "ISC"){
+ if (license === "ISC"){
   return '[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)'
  }
- if(license = "none"){
+ if(license === "none"){
   return "No license"
  }
 }
@@ -19,7 +19,7 @@ const generateMarkdown = (data) => {
   # **${data.title}**
 
   
-  ${renderLicenseLink(data.license)}
+  ${renderLicenseLink(data.licenseType)}
 
   ## Table of Contents
 
@@ -57,8 +57,11 @@ const generateMarkdown = (data) => {
   ${data.licenseType}
 
   ## Questions
-  ${data.questions}
+
+  If you have any questions, click the link for my Github profile or email me.
   
+  [${data.questions}](https://github.com/${data.questions})
+
   ${data.email}
 
 `;

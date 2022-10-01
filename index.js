@@ -52,18 +52,10 @@ const questions = [
   },
 ]
 
-// TODO: Create a function to write README file
-//const writeToFile = (fileName, data) => {
-  //fs.writeFile("README.md", generateMarkdown(data), (err) =>
-    //err ? console.error(err) : console.log(success)
-
-  //);
-
-//}
-
 inquirer
   .prompt (questions)
   .then(function(data){
+    console.log(data)
     const queryURL = `https://api.github.com/users/${data.questions}`;
 
 
@@ -74,9 +66,5 @@ inquirer
 
 });
 
-// TODO: Create a function to initialize app
-//const init =
 
-// Function call to initialize app
-//init();
 
