@@ -1,4 +1,5 @@
-const renderLicenseLink = (license) => {
+//Method to allow correct badge license link to appear in README.md
+const renderLicenseInfo = (license) => {
  if (license === 'Apache 2.0'){
   return '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
  }
@@ -13,14 +14,14 @@ const renderLicenseLink = (license) => {
  }
 }
 
-// TODO: Create a function to generate markdown for README
+// Method that includes template for README.md.
 const generateMarkdown = (data) => {
   return `
   # **${data.title}**
 
   Click the badge to be taken to the information about the chosen license.
   
-  ${renderLicenseLink(data.licenseType)}
+  ${renderLicenseInfo(data.licenseType)}
 
   ## Table of Contents
 

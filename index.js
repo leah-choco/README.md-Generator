@@ -1,8 +1,8 @@
-// TODO: Include packages needed for this application
+//Imported inquirer npm package version 8.2.4
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require("./utils/generateMarkdown");
-// TODO: Create an array of questions for user input
+//Array of questions to appear in intergrated terminal
 const questions = [
   {
     type: 'input',
@@ -52,6 +52,7 @@ const questions = [
   },
 ]
 
+//Method to allow input from user to write to the README.md file.
 inquirer
   .prompt (questions)
   .then(function(data){
