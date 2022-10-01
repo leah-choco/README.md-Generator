@@ -1,8 +1,9 @@
 
-  # **1**
+  # **h**
 
+  Click the badge to be taken to the information about the chosen license.
   
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
 
@@ -22,28 +23,31 @@
 
 
   ## Description
-  2
+  h
 
   ## Installation
-  3
+  h
 
   ## Usage
-  4
+  h
 
   ## Contributing
-  5
+  h
 
   ## Tests
-  6
+  h
 
   ## License
-  ISC
+  
+  Click the badge at the top of the README.md to go to the information about the chosen license. 
+  
+  MIT
 
   ## Questions
 
-  If you have any questions, click the link for my Github profile or email me.
+  If you have any questions, click my Github profile name or email me.
   
-  [7](https://github.com/7)
+  [h](https://github.com/h)
 
-  8
+  h
 

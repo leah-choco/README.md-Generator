@@ -55,7 +55,6 @@ const questions = [
 inquirer
   .prompt (questions)
   .then(function(data){
-    console.log(data)
     const queryURL = `https://api.github.com/users/${data.questions}`;
 
 

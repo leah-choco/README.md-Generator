@@ -18,6 +18,7 @@ const generateMarkdown = (data) => {
   return `
   # **${data.title}**
 
+  Click the badge to be taken to the information about the chosen license.
   
   ${renderLicenseLink(data.licenseType)}
 
@@ -54,11 +55,14 @@ const generateMarkdown = (data) => {
   ${data.tests}
 
   ## License
+  
+  Click the badge at the top of the README.md to go to the information about the chosen license. 
+  
   ${data.licenseType}
 
   ## Questions
 
-  If you have any questions, click the link for my Github profile or email me.
+  If you have any questions, click my Github profile name or email me.
   
   [${data.questions}](https://github.com/${data.questions})
 
