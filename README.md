@@ -1,9 +1,9 @@
 
-  # **h**
+  # **ReadMe Generator**
 
   Click the badge to be taken to the information about the chosen license.
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
   ## Table of Contents
 
@@ -23,31 +23,31 @@
 
 
   ## Description
-  h
+  This is an app run in the integrated terminal in node.js that will create a ReadMe based on your input.
 
   ## Installation
-  h
+  You will need inquirer as an npm package.
 
   ## Usage
-  h
+  You will use this in the integrated terminal.
 
   ## Contributing
-  h
+  Contact me to contribute.
 
   ## Tests
-  h
+  None.
 
   ## License
   
   Click the badge at the top of the README.md to go to the information about the chosen license. 
   
-  MIT
+  ISC
 
   ## Questions
 
   If you have any questions, click my Github profile name or email me.
   
-  [h](https://github.com/h)
+  [leah-choco](https://github.com/leah-choco)
 
-  h
+  mrsleahchoco@gmail.com
 
