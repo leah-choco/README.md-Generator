@@ -1,5 +1,7 @@
 
   # **ReadMe Generator**
+  
+  Submission video demonstration: [README.md-Generator Guide.webm](https://user-images.githubusercontent.com/109236891/193418502-4aab8e20-c21f-4923-a31e-d461e305d35d.webm)
 
   Click the badge to be taken to the information about the chosen license.
   
