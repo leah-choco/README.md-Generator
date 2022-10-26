@@ -3,7 +3,7 @@
 
   Click the badge to be taken to the information about the chosen license.
   
-  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Table of Contents
 
@@ -23,25 +23,25 @@
 
 
   ## Description
-  This is an app run in the integrated terminal in node.js that will create a ReadMe based on your input.
+  It's an app to create a readme from node.js in the terminal
 
   ## Installation
-  You will need inquirer as an npm package.
+  Need inquirer package
 
   ## Usage
-  You will use this in the integrated terminal.
+  None
 
   ## Contributing
-  Contact me to contribute.
+  Contact me
 
   ## Tests
-  None.
+  None
 
   ## License
   
   Click the badge at the top of the README.md to go to the information about the chosen license. 
   
-  ISC
+  Apache 2.0
 
   ## Questions
 
